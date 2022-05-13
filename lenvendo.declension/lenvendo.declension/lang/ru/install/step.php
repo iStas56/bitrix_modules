@@ -1,0 +1,4 @@
+<?
+$MESS["LENVENDO_DECLENSION_STEP_BEFORE"] 	   = "Модуль";
+$MESS["LENVENDO_DECLENSION_STEP_AFTER"]  	   = "установлен";
+$MESS["LENVENDO_DECLENSION_STEP_SUBMIT_BACK"]  = "Вернуться в список";
